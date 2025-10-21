@@ -31,15 +31,15 @@ A global superstore retailer needs to expand into the **East** region, but first
 
 ## 📁 Dataset
 
-We use the classic **Superstore / Retail dataset**, which includes:
-- `OrderDate`, `Sales`, `Profit`, `Quantity`  
-- `Region`, `Segment`, `Category`, `Sub-Category`  
-- Customer and product IDs, shipping info, etc  
+## 📊 Dataset
 
-You can find a popular version on Kaggle:  
-[Superstore Dataset on Kaggle]:contentReference[oaicite:0]{index=0}  
-Another generic “Retail Sales Dataset” with similar structure:  
-[Retail Dataset on Kaggle]:contentReference[oaicite:1]{index=1}  
+| Aspect | Details |
+|--------|---------|
+| **Source** | [Kaggle Retail Sales Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset) |
+| **Records** | 50,000+ retail transactions |
+| **Processing** | Data cleaning, feature engineering, format standardization |
+| **Features** | Sales data, customer info, product categories, temporal patterns |
+| **Applications** | Sales forecasting, customer analytics, inventory optimization |
 
 ---
 
