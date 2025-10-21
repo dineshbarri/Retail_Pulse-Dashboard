@@ -4,7 +4,7 @@
   <p><strong>Interactive Analytics for Retail Sales, Profit & Growth Trends</strong></p>
 
   <p>
-    🚀 <a href=" " target="_blank"><b>View Live Dashboard</b></a>
+    🚀 <a href="https://public.tableau.com/app/profile/dinesh.barri8170/viz/RetailPulseDashboard/RetailAnalysisDashboarding" target="_blank"><b>View Live Dashboard</b></a>
   </p>
 
   <img src="images/preview.gif" alt="Dashboard Preview" width="80%" style="border-radius:12px; border:2px solid #ccc; margin-top:10px;">
